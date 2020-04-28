@@ -1,0 +1,177 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'EB Garamond', serif;
+  font-size: 150%;
+}
+
+p {
+  padding-bottom: 20px;
+}
+
+.top-container {
+  background-color: #e5e4cc;
+  position: relative;
+  padding-top: 120px;
+}
+
+h1 {
+  margin-top: 50px auto 0 auto;
+  font-family: 'Tangerine', cursive;
+  font-size: 6.3rem;
+  color: #889e81;
+  line-height: 0.75;
+  font-weight: normal;
+}
+
+h2 {
+  font-family: 'Dosis', sans-serif;
+  font-size: 2.5rem;
+  color: #698474;
+
+}
+
+h3 {
+  font-family: 'Dosis', sans-serif;
+  color: #889e81;
+
+}
+
+/* .bottom-cloud {
+  position: absolute;
+  left: 15%;
+  bottom: 50%;
+  width: 10%;
+  /* height: 130px;
+  width: 200px; */
+/* .top-cloud {
+  position: absolute;
+  right: 15%;
+  top: 10%;
+  width: 15%;
+  /* top: 100px;
+  right: 300px;
+  height: 130px;
+  width: 200px; */
+.web-developer {
+  position: relative;
+  bottom: 40px;
+  color: #889e81;
+  font-weight: normal;
+  line-height: 0.75;
+}
+
+a {
+  color: #698474;
+  padding: 10px;
+  margin-top: 60px;
+  font-family: 'EB Garamond', serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #e5e4cc;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.animals-img {
+  width: 33%;
+}
+
+.bear-img {
+  width: 35%;
+}
+
+.fox-img {
+ width: 20%;
+ float: left;
+ margin-right: 30px;
+ position: relative;
+ bottom: 5px;
+}
+
+.deer-img {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+  position: relative;
+  bottom: 35px;
+}
+
+hr {
+  width: 5%;
+  border-bottom: none;
+  border-top: 5px dotted #e5e4cc;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.bottom-container {
+  background-color: #bac7a7;
+  padding: 40px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 1rem;
+  margin-bottom:0;
+  padding:0;
+  }
+
+  button {
+    background-color:  #698474;
+    border: solid white;
+    padding: 16px 32px;
+    border-radius: 8px;
+    text-decoration: none;
+    color:  #e5e4cc;
+    font-size: 1.5rem;
+    font-family: 'EB Garamond', serif;
+  }
+
+  button:hover {
+    border: solid #698474;
+    background-color:  #e5e4cc;
+    padding: 16px 32px;
+    border-radius: 8px;
+    text-decoration: none;
+    color:#698474;
+    font-size: 1.5rem;
+    font-family: 'EB Garamond', serif;
+  }
+
+  .profile {
+    width: 30%;
+    margin: 100px auto auto auto;
+  }
+
+  .contact-me {
+    width: 40%;
+    margin: 100px auto;
+  }
+ .balloon1 {
+   width: 10%;
+   position: absolute;
+   left: 15%;
+   bottom: 65%;
+
+ }
+ .balloon2 {
+   width: 10%;
+   position: absolute;
+   right: 15%;
+   top: 10%;
+ }
+
+ .balloon4 {
+   width:10%;
+   position: absolute;
+   left: 5%;
+   bottom: 30%;
+ }
